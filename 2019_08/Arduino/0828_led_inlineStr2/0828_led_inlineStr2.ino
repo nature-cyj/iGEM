@@ -1,7 +1,7 @@
-int led0 = 8;
-int led1 = 9;
-int led2 = 10;
-int led3 = 11;
+const int led0 = 8;
+const int led1 = 9;
+const int led2 = 10;
+const int led3 = 11;
 
 int time_1 = 500; // Length of "on"
 int time_2 = 300; // Length of "off"
